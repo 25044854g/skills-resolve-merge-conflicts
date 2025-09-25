@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+this is test for resoving conflicts
